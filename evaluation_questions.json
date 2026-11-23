@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What is the self-attention mechanism in the Transformer architecture?",
+        "relevant_sources": [
+            "attention_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "How does multi-head attention work in the Transformer?",
+        "relevant_sources": [
+            "attention_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "What is the encoder-decoder architecture in Transformers?",
+        "relevant_sources": [
+            "attention_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "What is a convolutional neural network?",
+        "relevant_sources": [
+            "cnn_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "What are the main components of a convolutional neural network?",
+        "relevant_sources": [
+            "cnn_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "What is a residual connection in ResNet?",
+        "relevant_sources": [
+            "resnet_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "How does ResNet solve the degradation problem in deep neural networks?",
+        "relevant_sources": [
+            "resnet_paper.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "What is the Vision Transformer architecture?",
+        "relevant_sources": [
+            "vision_transformer.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "How are image patches converted into embeddings in Vision Transformers?",
+        "relevant_sources": [
+            "vision_transformer.pdf"
+        ],
+        "relevant_pages": []
+    },
+    {
+        "question": "How does a Vision Transformer use self-attention for image recognition?",
+        "relevant_sources": [
+            "vision_transformer.pdf"
+        ],
+        "relevant_pages": []
+    }
+]

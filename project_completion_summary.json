@@ -1,0 +1,9 @@
+{
+    "PDF ingestion": "Completed",
+    "Text chunking": "Completed",
+    "Embedding models": "Completed",
+    "Retrieval evaluation": "Completed",
+    "LLM generation": "Successful",
+    "RAGAS Faithfulness": "Unavailable: IncompleteOutputException: The output is incomplete due to a max_tokens length limit.",
+    "Backup": "Saved locally in Colab"
+}
